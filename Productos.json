@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ef3cc4da-7037-4ac4-8fc2-a0f9f188c94f",
+    "titulo": "Boar",
+    "descripcion": "Para AMD",
+    "precio": 350,
+    "thumbnail": "google.com",
+    "cantidad": "2"
+  },
+  {
+    "id": "d88798b0-f316-4dc3-8fcb-d41647692b4d",
+    "titulo": "Mouse Gamer",
+    "descripcion": "Tipo Samurai",
+    "precio": 56000,
+    "thumbnail": "google.com",
+    "cantidad": "5"
+  },
+  {
+    "id": "bce699e6-5685-4e4a-ad41-52b9ac541c62",
+    "titulo": "Mouse Gamer",
+    "descripcion": "Tipo Samurai",
+    "precio": 56000,
+    "thumbnail": "google.com",
+    "cantidad": "5"
+  },
+  {
+    "id": "5523168b-5090-4b6d-869e-bb8020139824",
+    "titulo": "Mouse Gamer",
+    "descripcion": "Tipo Samurai",
+    "precio": 56000,
+    "thumbnail": "google.com",
+    "cantidad": "5"
+  }
+]
